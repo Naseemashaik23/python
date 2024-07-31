@@ -1,0 +1,6 @@
+import math
+r = int(input('enter radius'))
+a = (math.pi)*r*r
+p = 2*(math.pi)*r
+print('area is:',a)
+print('perimeter is:',p)
